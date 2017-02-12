@@ -20,4 +20,4 @@ I&#8217;m working hard and I want to make videos every month showing my journey.
 <p style="text-align:center;">
 <p style="text-align:center;"><img class="not-resizable" src="https://d2g8igdw686xgo.cloudfront.net/16012853_1484272761.6548_funddescription.jpg" alt="" width="100%" /><br />
 Arigato gozaimasu!</p>
-<p style="text-align:center;">			</div><!-- .entry-content -->
+<p style="text-align:center;">			<!-- .entry-content -->
