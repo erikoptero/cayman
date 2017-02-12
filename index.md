@@ -41,7 +41,9 @@ Arigato gozaimasu!</p>
 
 <p style="text-align:center;">&nbsp;</p>
 
-<p style="text-align: center;"><a href="http://www.twitter.com/erikoptero"><img alt="" src="http://jass.life/coramdeo/2015/media/assets/Twitter_Sm-Icon.png" style="float: center; width: 100px; height: 100px;" /></a><a href="http://www.instagram.com/erikoptero"><img alt="" src="http://www.panamacanalfishing.com/img/instagram-icon.jpg" style="float: center; width: 100px; height: 100px;" /></a></p><p style="text-align: center;"><a href="http://9gag.com/u/erikoptero"><img alt="" src="http://is3.mzstatic.com/image/thumb/Purple111/v4/98/34/4e/98344ed8-6563-77fb-483a-fc51ef0052d4/source/100x100bb.jpg" style="float: center; width: 100px; height: 100px;" /></a><p style="text-align: center;"><a href="https://www.reddit.com/user/erikoptero/"><img alt="" src="https://yt3.ggpht.com/-SnVrCsddc7c/AAAAAAAAAAI/AAAAAAAAAAA/JJaGTyVHdA8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" style="float: center; width: 100px; height: 100px;" /></a>
+<p style="text-align: center;"><a href="http://www.twitter.com/erikoptero"><img alt="" src="http://jass.life/coramdeo/2015/media/assets/Twitter_Sm-Icon.png" style="float: center; width: 100px; height: 100px;" /></a>
+
+<a href="http://www.instagram.com/erikoptero"><img alt="" src="http://www.panamacanalfishing.com/img/instagram-icon.jpg" style="float: center; width: 100px; height: 100px;" /></a><a href="http://9gag.com/u/erikoptero"><img alt="" src="http://is3.mzstatic.com/image/thumb/Purple111/v4/98/34/4e/98344ed8-6563-77fb-483a-fc51ef0052d4/source/100x100bb.jpg" style="float: center; width: 100px; height: 100px;" /></a><a href="https://www.reddit.com/user/erikoptero/"><img alt="" src="https://yt3.ggpht.com/-SnVrCsddc7c/AAAAAAAAAAI/AAAAAAAAAAA/JJaGTyVHdA8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" style="float: center; width: 100px; height: 100px;" /></a></p>
 
 <p style="text-align:center;"><!-- .entry-content --></p>
 </div>
