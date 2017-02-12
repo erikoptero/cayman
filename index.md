@@ -15,6 +15,8 @@ layout: default
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img src="http://i.imgur.com/fUK0DzB.jpg" alt="" width="1500" height="844" /></p>
+<p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><a href="http://imgur.com/a/NnLJh">KYOTO IMPERIAL PALACE</a></p>
 <p style="text-align: center;"><a href="http://imgur.com/a/o8OmN">KYOTO</a></p>
