@@ -2,122 +2,37 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+![]({{site.baseurl}}/https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660)
 
-There should be whitespace between paragraphs.
+Let me introduce myself, I’m Eric (25) from Barcelona (Spain), I work in a factory  and in april I will move to Japan to study (I’m going to study there).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I want to buy a DSLR camera for taking pictures and videos of my daily life in Japan and share it with you.
 
-# [](#header-1)Header 1
+With all the costs of the language academy, apartment, groceries and flights I don’t have enought money to buy it.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I don’t want anything expensive, a begginer camerA like the Canon 700D/760D, Nikon D5300/D5500.
 
-## [](#header-2)Header 2
+You can find me on twitter and instagram: **erikoptero**
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+![]({{site.baseurl}}/https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=288&h=288)
 
-### [](#header-3)Header 3
+I always have a fascination for Japan and I want to share my experience with you through pictures and videos.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+You can see some of the pictures I take in Japan this summer with the LG G4 camera.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[Gallery](http://erikoptero.imgur.com/ "Gallery")
 
-#### [](#header-4)Header 4
+![]({{site.baseurl}}/https://d2g8igdw686xgo.cloudfront.net/16012853_1484271191.4704_funddescription.jpg)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+![]({{site.baseurl}}/https://d2g8igdw686xgo.cloudfront.net/16012853_1484271566.8839_funddescription.jpg)
 
-##### [](#header-5)Header 5
+I’m working hard and I want to make videos every month showing my journey. my life in Japan and all the difficulties I will afront. Also I want to start a blog about life in Japan, studying japanese and all that cross my mind.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JhQ92loU1EA" frameborder="0" allowfullscreen></iframe>
 
-###### [](#header-6)Header 6
+![]({{site.baseurl}}/https://d2g8igdw686xgo.cloudfront.net/16012853_1484272761.6548_funddescription.jpg)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+###
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Arigato gozaimasu!
