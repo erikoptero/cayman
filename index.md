@@ -1,38 +1,24 @@
 ---
 layout: default
 ---
-
-
-![]({{site.baseurl}}/https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660)
-
-Let me introduce myself, I’m Eric (25) from Barcelona (Spain), I work in a factory  and in april I will move to Japan to study (I’m going to study there).
-
-I want to buy a DSLR camera for taking pictures and videos of my daily life in Japan and share it with you.
-
-With all the costs of the language academy, apartment, groceries and flights I don’t have enought money to buy it.
-
-I don’t want anything expensive, a begginer camerA like the Canon 700D/760D, Nikon D5300/D5500.
-
-You can find me on twitter and instagram: **erikoptero**
-
-![]({{site.baseurl}}/https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=288&h=288)
-
-I always have a fascination for Japan and I want to share my experience with you through pictures and videos.
-
-You can see some of the pictures I take in Japan this summer with the LG G4 camera.
-
-[Gallery](http://erikoptero.imgur.com/ "Gallery")
-
-![]({{site.baseurl}}/https://d2g8igdw686xgo.cloudfront.net/16012853_1484271191.4704_funddescription.jpg)
-
-![]({{site.baseurl}}/https://d2g8igdw686xgo.cloudfront.net/16012853_1484271566.8839_funddescription.jpg)
-
-I’m working hard and I want to make videos every month showing my journey. my life in Japan and all the difficulties I will afront. Also I want to start a blog about life in Japan, studying japanese and all that cross my mind.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JhQ92loU1EA" frameborder="0" allowfullscreen></iframe>
-
-![]({{site.baseurl}}/https://d2g8igdw686xgo.cloudfront.net/16012853_1484272761.6548_funddescription.jpg)
-
-###
-
-Arigato gozaimasu!
+<div class="entry-content">
+		<p><img data-attachment-id="50" data-permalink="https://erikopter0.wordpress.com/2017/01/21/please-help-me-moving-to-japan__trashed/16012853_1484516681-1668/" data-orig-file="https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660" data-orig-size="800,533" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="16012853_1484516681-1668" data-image-description="" data-medium-file="https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660?w=300" data-large-file="https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660?w=660" class="size-full wp-image-50 aligncenter" src="https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660" alt="16012853_1484516681-1668" srcset="https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660 660w, https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=150 150w, https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=300 300w, https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=768 768w, https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg 800w" sizes="(max-width: 660px) 100vw, 660px"   /></p>
+<p><img data-attachment-id="84" data-permalink="https://erikopter0.wordpress.com/img_2016092gg4224819/" data-orig-file="https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=288&#038;h=288" data-orig-size="1620,1620" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="img_2016092gg4224819" data-image-description="" data-medium-file="https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=288&#038;h=288?w=300" data-large-file="https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=288&#038;h=288?w=660" class="  wp-image-84 alignright" src="https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=288&#038;h=288" alt="img_2016092gg4224819" width="288" height="288" srcset="https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=288&amp;h=288 288w, https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=576&amp;h=576 576w, https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=150&amp;h=150 150w, https://erikopter0.files.wordpress.com/2017/02/img_2016092gg4224819.jpg?w=300&amp;h=300 300w" sizes="(max-width: 288px) 100vw, 288px" /></p>
+<p style="text-align:center;">Let me introduce myself, I&#8217;m Eric (25) from Barcelona (Spain), I work in a factory  and in april I will move to Japan to study (I&#8217;m going to study there).</p>
+<p style="text-align:center;">I want to buy a DSLR camera for taking pictures and videos of my daily life in Japan and share it with you.</p>
+<p style="text-align:center;">With all the costs of the language academy, apartment, groceries and flights I don&#8217;t have enought money to buy it.</p>
+<p style="text-align:center;">I don&#8217;t want anything expensive, a begginer camerA like the Canon 700D/760D, Nikon D5300/D5500.</p>
+<p style="text-align:center;">You can find me on twitter and instagram: erikoptero</p>
+<p style="text-align:center;">I always have a fascination for Japan and I want to share my experience with you through pictures and videos.</p>
+<p style="text-align:center;">You can see some of the pictures I take in Japan this summer with the LG G4 camera.</p>
+<p style="text-align:center;"><a href="http://erikoptero.imgur.com/" rel="nofollow">http://erikoptero.imgur.com/</a></p>
+<p style="text-align:center;"><img class="not-resizable" src="https://d2g8igdw686xgo.cloudfront.net/16012853_1484271191.4704_funddescription.jpg" alt="" width="100%" /><br />
+I hope to make this dream came true with your help.</p>
+<p style="text-align:center;"><img class="not-resizable" src="https://d2g8igdw686xgo.cloudfront.net/16012853_1484271566.8839_funddescription.jpg" alt="" width="100%" /><br />
+I&#8217;m working hard and I want to make videos every month showing my journey. my life in Japan and all the difficulties I will afront. Also I want to start a blog about life in Japan, studying japanese and all that cross my mind.</p>
+<p style="text-align:center;"><div class="jetpack-video-wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='560' height='315' src='https://www.youtube.com/embed/JhQ92loU1EA?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></div></p>
+<p style="text-align:center;">
+<p style="text-align:center;"><img class="not-resizable" src="https://d2g8igdw686xgo.cloudfront.net/16012853_1484272761.6548_funddescription.jpg" alt="" width="100%" /><br />
+Arigato gozaimasu!</p>
+<p style="text-align:center;">
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Compártelo:</h3><div class="sd-content"><ul><li class="share-press-this"><a rel="nofollow" data-shared="" class="share-press-this sd-button share-icon" href="https://erikopter0.wordpress.com/?share=press-this" target="_blank" title="Haz clic para utilizar ¡Publica Esto!"><span>Publica Esto</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-86" class="share-twitter sd-button share-icon" href="https://erikopter0.wordpress.com/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-86" class="share-facebook sd-button share-icon" href="https://erikopter0.wordpress.com/?share=facebook" target="_blank" title="Comparte en Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-86" class="share-google-plus-1 sd-button share-icon" href="https://erikopter0.wordpress.com/?share=google-plus-1" target="_blank" title="Haz clic para compartir en Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div></div>			</div><!-- .entry-content -->
