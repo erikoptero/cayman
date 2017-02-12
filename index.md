@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<p>--- layout: default ---</p>
 <div class="entry-content">
 <p style="text-align: center;"><img class="size-full wp-image-50 aligncenter" src="https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660" alt="16012853_1484516681-1668" data-attachment-id="50" data-comments-opened="1" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="16012853_1484516681-1668" data-large-file="https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660?w=660" data-medium-file="https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660?w=300" data-orig-file="https://erikopter0.files.wordpress.com/2017/01/16012853_1484516681-1668.jpg?w=660" data-orig-size="800,533" data-permalink="https://erikopter0.wordpress.com/2017/01/21/please-help-me-moving-to-japan__trashed/16012853_1484516681-1668/" /></p>
 <p style="text-align: right;">&nbsp;</p>
